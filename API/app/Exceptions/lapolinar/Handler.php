@@ -1,3 +1,4 @@
+"COVID19",
 <?php
 
 namespace App\Exceptions;
